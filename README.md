@@ -6,8 +6,7 @@ Analyzes patient drug reviews to classify sentiment and extract key factors behi
 
 ## Dataset
 
-Uses the [UCI Drug Review Dataset](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com) (`drugsComTrain_raw.tsv`). Download it separately and place it in the project root before running.
-
+Uses the [UCI Drug Review Dataset](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com) (`drugsComTrain_raw.tsv`). 
 Sentiment labels are derived from ratings: **positive** (≥ 7), **neutral** (5–6), **negative** (< 5).
 
 ---
